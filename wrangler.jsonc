@@ -1,6 +1,6 @@
 {
   "name": "tools-bot",
-  "main": "worker (1).js",
+  "main": "bot.js"
   "compatibility_date": "2025-01-01",
   "kv_namespaces": [
     { "binding": "KV", "id": "4a709435d09b40ddb2b0826b40462460" }
